@@ -45,7 +45,7 @@ st.markdown(
     }}
 
     h1, h2, h3, p, label {{
-        color: #111111;
+        color: #111112;
     }}
 
     div.stButton > button {{
